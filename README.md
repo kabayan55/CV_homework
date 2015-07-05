@@ -4,7 +4,7 @@
 CvMainKabayan.jaca内部のimageProcessing1();からimageProcessing23();まで上から順番に有効にしてコンパイルして実行すると画像が生成されるようになっています．
 
 ## 画像処理に必要な全ての入力JPEG画像（合計16枚）
-
+背景の作成に使用：miffy192*144.jpg（１枚）
 人の画像：center1.jpg（１枚）←個人情報のためにここには置いていません．  
 リボン：ribbon1.jpg（１枚）  
 スカート：skirt1.jpg（１枚）  
